@@ -22,6 +22,5 @@ public class MyMain {
                 System.out.println("Enter a valid input.");
             }
         }
-
     }
 }
