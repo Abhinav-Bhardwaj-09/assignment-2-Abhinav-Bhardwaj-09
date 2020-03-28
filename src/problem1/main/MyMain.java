@@ -18,9 +18,6 @@ public class MyMain {
                 obj.InOrderView();
                 P = false;
             }
-            /*/else if( input == 3 ){
-                obj.PreOrderView();
-            }/*/
             else {
                 System.out.println("Enter a valid input.");
             }
